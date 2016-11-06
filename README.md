@@ -9,4 +9,4 @@ features:
 This is the initial release, so expect some bug to be handled in the next few release.
 
 feel free look at the code, and learn.
-don't forget to visit me at <a href="https://www.AInewbie.wordpress.com">here</a>
+don't forget to visit me at <a href="https://www.AInewbie.wordpress.com">AInewbie</a>
