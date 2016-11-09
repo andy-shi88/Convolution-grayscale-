@@ -10,3 +10,4 @@ This is the initial release, so expect some bug to be handled in the next few re
 
 feel free look at the code, and learn.
 don't forget to visit me at <a href="https://www.AInewbie.wordpress.com">AInewbie</a>
+read the article up here: https://ainewbie.wordpress.com/2016/11/06/convolution-grayscale-java/
